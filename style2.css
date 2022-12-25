@@ -1,0 +1,16 @@
+p{
+	border-width: 1px;
+	border-color: red;
+	border-style: solid;
+	color: red;
+
+}
+img {
+  display: block;
+  width: 30%;
+  margin: auto;
+  border-width: 5px;
+  border-color: red;
+  border-style: solid;
+  color: orange;
+}
